@@ -49,7 +49,8 @@
 <label for="">USERNAME</label> <input type="text" required>
 <label for="">EMAIL</label> <input type="email" required>
 <label for="">phone</label> <input type="text" required>
-<P><i>contact us:</i></P> <form action="laundarywallah@gmail.com">laundarywallah@gmail.com</form>
+<P><i>contact us:</i></P> 
+<a href="laundarwallah@gmail.com">laundarwallah</a>
 
 
 </body>
